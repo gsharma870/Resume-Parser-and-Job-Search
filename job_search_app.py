@@ -572,7 +572,7 @@ with st.sidebar:
 
     st.markdown("### Upload Resume")
     uploaded = st.file_uploader("Upload a PDF resume", type=["pdf"], label_visibility="collapsed")
-    st.caption("Default: GSharma_Resume.pdf")
+    #st.caption("Default: GSharma_Resume.pdf")
 
     st.divider()
     st.markdown("### Job Search")
@@ -711,7 +711,7 @@ with tab1:
     with col_left:
         st.markdown("### 👤 Candidate Profile")
         st.markdown(
-            f'<div class="card"><h3 style="margin:0;color:#f0f2f6">{parsed["name"] or "Gyanendra Sharma"}</h3>'
+            f'<div class="card"><h3 style="margin:0;color:#f0f2f6">{parsed["name"]}</h3>'
             f'<p style="color:#9ca3af;margin:4px 0 0">Senior HMI & UX Researcher · 7+ Years · Automotive ADAS</p></div>',
             unsafe_allow_html=True,
         )
