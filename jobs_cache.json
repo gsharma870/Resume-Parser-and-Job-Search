@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026-03-31T21:23:52.734543",
-  "resume_hash": "0b12b788c3b0",
+  "updated_at": "2026-03-31T21:36:05.964632",
+  "resume_hash": "7561a7963300",
   "jobs": [
-    {
-      "title": "Senior UX Researcher, Rider Experience",
-      "company": "Waymo",
-      "location": "San Francisco / Mountain View, CA",
-      "description": "Waymo is hiring a Senior UX Researcher focused on the One robotaxi rider experience \u2014 trust, transparency, in-vehicle UI, and emotional experience from boarding to drop-off. Mixed-methods research (qualitative + quantitative) feeds directly into product and engineering.",
-      "requirements": [
-        "5+ years UX research in mobility, automotive, or related domain",
-        "Strong mixed-methods expertise (interviews, surveys, field research)",
-        "PhD or Master's in HCI, Psychology, or Cognitive Science preferred"
-      ],
-      "url": "https://www.linkedin.com/jobs/view/senior-ux-researcher-rider-experience-at-waymo-4344062954",
-      "posted": "Active \u2014 Mar 2026",
-      "source": "curated",
-      "fit": "High",
-      "tags": [
-        "Autonomous Driving",
-        "UX Research",
-        "HMI",
-        "Rider Experience"
-      ],
-      "gap_skills": []
-    },
-    {
-      "title": "Senior UX Researcher, Weavers UX and Design",
-      "company": "Woven by Toyota",
-      "location": "Tokyo / Remote-friendly (Japan)",
-      "description": "Supporting four pillars: AD/ADAS, Arene (software-defined vehicle platform), Woven City, and Cloud & AI. 7+ years UX research required; own complex projects, mentor teammates, drive data-informed decisions.",
-      "requirements": [
-        "7+ years UX research or equivalent experience",
-        "Bachelor's in Psychology, Human Factors, HCI, or Robotics",
-        "Strong qualitative and quantitative research skills"
-      ],
-      "url": "https://jobs.lever.co/woven-by-toyota/d802556d-3889-4c4b-ba85-d816b0690cf0",
-      "posted": "Active \u2014 Mar 2026",
-      "source": "curated",
-      "fit": "High",
-      "tags": [
-        "ADAS",
-        "UX Research"
-      ],
-      "gap_skills": []
-    },
     {
       "title": "UX Researcher",
       "company": "Applied Intuition",
@@ -167,40 +125,44 @@
       "gap_skills": []
     },
     {
-      "title": "Senior Researcher \u2013 Driver Experience & Trust",
-      "company": "Toyota Research Institute (TRI)",
-      "location": "Los Altos, CA (Hybrid)",
-      "description": "Study driver trust calibration and mental model formation for automated driving. Design simulator and real-world studies; collaborate with AI and robotics teams. Salary: $180K\u2013$270K (CA).",
+      "title": "Senior UX Researcher, Rider Experience",
+      "company": "Waymo",
+      "location": "San Francisco / Mountain View, CA",
+      "description": "Waymo is hiring a Senior UX Researcher focused on the One robotaxi rider experience \u2014 trust, transparency, in-vehicle UI, and emotional experience from boarding to drop-off. Mixed-methods research (qualitative + quantitative) feeds directly into product and engineering.",
       "requirements": [
-        "PhD in HCI, Human Factors, Cognitive Science, or Psychology",
-        "Prior research on trust, transparency, or explainability in automation",
-        "Strong publication record"
+        "5+ years UX research in mobility, automotive, or related domain",
+        "Strong mixed-methods expertise (interviews, surveys, field research)",
+        "PhD or Master's in HCI, Psychology, or Cognitive Science preferred"
       ],
-      "url": "https://jobs.lever.co/tri",
-      "posted": "Check career page",
+      "url": "https://www.linkedin.com/jobs/view/senior-ux-researcher-rider-experience-at-waymo-4344062954",
+      "posted": "Active \u2014 Mar 2026",
       "source": "curated",
-      "fit": "High",
+      "fit": "Medium",
       "tags": [
-        "Automotive"
+        "Autonomous Driving",
+        "UX Research",
+        "HMI",
+        "Rider Experience"
       ],
       "gap_skills": []
     },
     {
-      "title": "UX Researcher \u2013 Cockpit & Infotainment Systems",
-      "company": "Volkswagen Group of America",
-      "location": "Herndon, VA / Belmont, CA (Hybrid)",
-      "description": "Evaluate cockpit and infotainment experience across VW, Audi, and Porsche brands. Usability studies, heuristic evaluations, and competitive benchmarking.",
+      "title": "Senior UX Researcher, Weavers UX and Design",
+      "company": "Woven by Toyota",
+      "location": "Tokyo / Remote-friendly (Japan)",
+      "description": "Supporting four pillars: AD/ADAS, Arene (software-defined vehicle platform), Woven City, and Cloud & AI. 7+ years UX research required; own complex projects, mentor teammates, drive data-informed decisions.",
       "requirements": [
-        "5+ years UX research in automotive or connected devices",
-        "Experience with heuristic evaluation and competitive analysis"
+        "7+ years UX research or equivalent experience",
+        "Bachelor's in Psychology, Human Factors, HCI, or Robotics",
+        "Strong qualitative and quantitative research skills"
       ],
-      "url": "https://www.vw.com/en/models/careers.html",
-      "posted": "Check career page",
+      "url": "https://jobs.lever.co/woven-by-toyota/d802556d-3889-4c4b-ba85-d816b0690cf0",
+      "posted": "Active \u2014 Mar 2026",
       "source": "curated",
-      "fit": "High",
+      "fit": "Medium",
       "tags": [
-        "UX Research",
-        "HMI"
+        "ADAS",
+        "UX Research"
       ],
       "gap_skills": []
     },
@@ -244,6 +206,44 @@
       "gap_skills": [
         "ISO 26262 / SOTIF"
       ]
+    },
+    {
+      "title": "UX Researcher \u2013 Cockpit & Infotainment Systems",
+      "company": "Volkswagen Group of America",
+      "location": "Herndon, VA / Belmont, CA (Hybrid)",
+      "description": "Evaluate cockpit and infotainment experience across VW, Audi, and Porsche brands. Usability studies, heuristic evaluations, and competitive benchmarking.",
+      "requirements": [
+        "5+ years UX research in automotive or connected devices",
+        "Experience with heuristic evaluation and competitive analysis"
+      ],
+      "url": "https://www.vw.com/en/models/careers.html",
+      "posted": "Check career page",
+      "source": "curated",
+      "fit": "Medium",
+      "tags": [
+        "UX Research",
+        "HMI"
+      ],
+      "gap_skills": []
+    },
+    {
+      "title": "Senior Researcher \u2013 Driver Experience & Trust",
+      "company": "Toyota Research Institute (TRI)",
+      "location": "Los Altos, CA (Hybrid)",
+      "description": "Study driver trust calibration and mental model formation for automated driving. Design simulator and real-world studies; collaborate with AI and robotics teams. Salary: $180K\u2013$270K (CA).",
+      "requirements": [
+        "PhD in HCI, Human Factors, Cognitive Science, or Psychology",
+        "Prior research on trust, transparency, or explainability in automation",
+        "Strong publication record"
+      ],
+      "url": "https://jobs.lever.co/tri",
+      "posted": "Check career page",
+      "source": "curated",
+      "fit": "Low",
+      "tags": [
+        "Automotive"
+      ],
+      "gap_skills": []
     }
   ]
 }
